@@ -1,8 +1,8 @@
 name = 'Oleg'
-print('Name:',name)
+print(f'Name: {name}')
 age = 40
-print('Age:',age)
+print(f'Age: {age}')
 age += 1
-print('New age:',age)
+print(f'New age: {age}')
 is_student = True
-print('Is student:',is_student)
+print(f'Is student: {is_student}')
