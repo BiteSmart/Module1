@@ -1,4 +1,5 @@
-# 2024-05-28
+##################################
+#           2024-05-28           #
 ### The homework code is below ###
 
 example = input('Input any string: ')           # В переменную example запишите любую строку.
